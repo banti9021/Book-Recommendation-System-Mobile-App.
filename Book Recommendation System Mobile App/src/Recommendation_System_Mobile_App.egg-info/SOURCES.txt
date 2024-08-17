@@ -1,0 +1,5 @@
+setup.py
+src/Recommendation_System_Mobile_App.egg-info/PKG-INFO
+src/Recommendation_System_Mobile_App.egg-info/SOURCES.txt
+src/Recommendation_System_Mobile_App.egg-info/dependency_links.txt
+src/Recommendation_System_Mobile_App.egg-info/top_level.txt
